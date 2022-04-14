@@ -75,6 +75,7 @@ class Game extends React.Component {
           <div>{/* status */}</div>
           <ol>{/* TODO */}</ol>
         </div>
+        <div className='congratulations'>!!!!</div>
       </div>
     );
   }
